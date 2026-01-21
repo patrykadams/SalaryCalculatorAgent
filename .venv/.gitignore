@@ -1,0 +1,18 @@
+# Python environment
+.venv/
+venv/
+env/
+
+# Data storage (Private)
+*.db
+payroll_data.db
+
+# Secrets and credentials
+.env
+keys.json
+
+# System and IDE files
+__pycache__/
+.vscode/
+.idea/
+.DS_Store
