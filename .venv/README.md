@@ -17,4 +17,4 @@ A Python-based Telegram bot that automates salary tracking using Large Language 
 ## 🚀 Setup
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/your-username/ai-payroll-bot.git](https://github.com/your-username/ai-payroll-bot.git)
+   git clone [https://github.com/patrykadams/SalaryCalculatorAgent.git](https://github.com/patrykadams/SalaryCalculatorAgent.git)
